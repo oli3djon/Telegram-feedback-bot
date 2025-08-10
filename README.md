@@ -32,7 +32,8 @@
 
 В свою очередь, администратор видит так (и может пользоваться расширенным набором команд):
 
-![Как переписку видит администратор](screenshots/what_admin_sees.png "Всё под рукой")
+<img width="586" height="669" alt="image" src="https://github.com/user-attachments/assets/3a0ae985-d17c-47b5-8c62-7b1743d54897" />
+
 
 ## Установка 
 
